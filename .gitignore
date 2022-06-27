@@ -1,0 +1,5 @@
+*.log
+/dir/
+tracing.txt
+tracing2.txt
+tracing3.txt
